@@ -1,0 +1,5 @@
+flask
+playwright
+opencv-python-headless
+numpy
+flask-cors
