@@ -235,7 +235,7 @@ if __name__ == "__main__":
     port = int(
         os.environ.get("PORT")
         or os.environ.get("SERVER_PORT")
-        or 12978
+        or 8080
     )
 
     app.run(
